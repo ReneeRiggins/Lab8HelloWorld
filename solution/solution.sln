@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab8HelloWorld", "Lab8HelloWorld\Lab8HelloWorld.csproj", "{29853005-85C7-41DE-9294-2ECD02E1B4C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab8Cold", "Lab8Cold\Lab8Cold.csproj", "{52883C07-6522-4932-A92D-74B76F692CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29853005-85C7-41DE-9294-2ECD02E1B4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29853005-85C7-41DE-9294-2ECD02E1B4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29853005-85C7-41DE-9294-2ECD02E1B4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29853005-85C7-41DE-9294-2ECD02E1B4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52883C07-6522-4932-A92D-74B76F692CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52883C07-6522-4932-A92D-74B76F692CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52883C07-6522-4932-A92D-74B76F692CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52883C07-6522-4932-A92D-74B76F692CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {969EBEC5-4506-4496-B778-CED317C71433}
+	EndGlobalSection
+EndGlobal
